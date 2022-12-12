@@ -5,6 +5,7 @@ import 'homepage.dart';
 
 void main() {
   runApp(MyApp());
+  print("camera");
 }
 
 class MyApp extends StatelessWidget {
